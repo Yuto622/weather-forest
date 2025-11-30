@@ -1,0 +1,5 @@
+{
+  "name": "TenkiComp - Weather Forecast Comparison",
+  "description": "Compare weather forecasts from tenki.jp, JMA, Weathernews, NHK, and Yahoo! Weather in one view.",
+  "requestFramePermissions": []
+}
